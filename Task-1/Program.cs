@@ -7,7 +7,7 @@
 
             //variable declaration
             // string name;
-            // String age;
+            // int age;
             
             //variable initialization
             // name = "Moaz";
@@ -19,7 +19,7 @@
 
             Console.WriteLine(age);   //Printing age
             
-            Console.WriteLine(name);   //Printing age
+            Console.WriteLine(name);   //Printing name
         }
     }
 }
